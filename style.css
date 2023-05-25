@@ -80,6 +80,7 @@ h4, h5, p, span {
     flex-direction: column;
     border: 1px solid #F2F2F2;
     border-radius: 16px;
+    overflow: hidden;
 }
 
 .card-image {
