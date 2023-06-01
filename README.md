@@ -2,13 +2,11 @@
 作業連結：[切版任務作業一－AI 工具王－產品優勢卡片設計](https://rpg.hexschool.com/task/342/show)
 
 ## Table of contents
-- [六角學院 2023 軟體工程師體驗營－切版作業一](#六角學院-2023-軟體工程師體驗營切版作業一)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Link](#link)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
+- [Overview](#overview)
+  - [Link](#link)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
 ## Overview
 - 第一次總共花費約 2 小時，0.5 小時完成大架構，1.5 小時進行 HTML、CSS 調整
